@@ -1,0 +1,6 @@
+ssss: 500
+Bozica: 400
+Bruno: 400
+kruno: 200
+www: 200
+www: 100

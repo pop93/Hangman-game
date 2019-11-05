@@ -1,0 +1,9 @@
+c:\users\korisnik\documents\visual studio 2015\Projects\IgraVjesala\IgraVjesala\bin\Debug\IgraVjesala.exe.config
+c:\users\korisnik\documents\visual studio 2015\Projects\IgraVjesala\IgraVjesala\bin\Debug\IgraVjesala.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\IgraVjesala\IgraVjesala\bin\Debug\IgraVjesala.pdb
+c:\users\korisnik\documents\visual studio 2015\Projects\IgraVjesala\IgraVjesala\obj\Debug\IgraVjesala.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2015\Projects\IgraVjesala\IgraVjesala\obj\Debug\IgraVjesala.frmIgraVjesala.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\IgraVjesala\IgraVjesala\obj\Debug\IgraVjesala.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2015\Projects\IgraVjesala\IgraVjesala\obj\Debug\IgraVjesala.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2015\Projects\IgraVjesala\IgraVjesala\obj\Debug\IgraVjesala.exe
+c:\users\korisnik\documents\visual studio 2015\Projects\IgraVjesala\IgraVjesala\obj\Debug\IgraVjesala.pdb
